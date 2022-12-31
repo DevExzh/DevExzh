@@ -1,16 +1,23 @@
 ### Hi there 👋
+My name is **Zhu He**, but you can call me **Ryker**. I'm a student based Shanghai from _Nanjing University of Information Science & Technology_, NUIST, and major in Software Engineering. ✌️
 
-<!--
-**DevExzh/DevExzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ✨ My tech stack
+- C/C++ Cross-platform Development
+    - Qt 5/6 Framework
+    - A few commands of C++11/C++14/C++17/C99 standard
+- Java Development
+- Kotlin Development
+- Python Development (Version 3 Only)
+- C# .NET Windows Development
+- Linux Server Maintenance
+
+#### 🌱 I'm currently studying...
+- Assembly language
+- Erlang
+- Perl
+- Lua
+
+#### 📫 How to reach me...
+E-mail: 202283930036@nuist.edu.cn
