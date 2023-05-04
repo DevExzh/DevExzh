@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Zhu He**, but you can call me **Ryker**. I'm a student based Shanghai from _Nanjing University of Information Science & Technology_, NUIST, and major in Software Engineering. ✌️
-
+I am now working on ACM/ICPC and every OIer is welcomed to contact me~
 
 #### ✨ My tech stack
 - C/C++ Cross-platform Development
