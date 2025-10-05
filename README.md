@@ -1,25 +1,31 @@
 ### Hi there 👋
-My name is **Zhu He**, but you can call me **Ryker**. I'm a student based Shanghai from _Nanjing University of Information Science & Technology_, NUIST, and major in Software Engineering. ✌️
-I am now working on ACM/ICPC and every OIer is welcomed to contact me~
+
+My name is **Zhu He**, but you can call me **Ryker**. I'm a developer based Shanghai. ✌️
 
 #### ✨ My tech stack
-- C/C++ Cross-platform Development
-    - Qt 5/6 Framework
-    - A few commands of C++11/C++14/C++17/C99 standard
-- Java Development
-- Kotlin Development
-- Python Development (Version 3 Only)
-- C# .NET Windows Development
-- Golang Cross-platform Development
-- Linux Server Maintenance
 
-#### 🌱 I'm currently studying...
-- Assembly language
-- Erlang
-- Perl
-- Lua
+- 🌍 Languages
+  - C/Objective-C/C++
+  - Golang
+  - Python
+  - Rust
+  - JavaScript/TypeScript
+  - ~~Java/Kotlin~~ *(Learned in school, but seldom do I code in JVM languages)*
+- 🔧 Tools
+  - Neovim
+  - A cool shell theme [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 #### 📫 How to reach me...
-E-mail: 202283930036@nuist.edu.cn
 
-[My Blog](https://devexzh.github.io/): A place where I post my ideas
+E-mail: [ryker.zhu@outlook.com](mailto:ryker.zhu@outlook.com)
+
+[My Blog](https://www.rykerzhu.com): A place where I post my thinking and notes. Built with React & Tailwind from scratch.
+
+Trivia: You can run the following command to view my detailed information on GitHub.
+
+```bash
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/users/DevExzh | jq
+```
